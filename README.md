@@ -3,7 +3,7 @@
 
 This repository contains a clone of the Samsung India front page created using pure HTML and CSS. The clone aims to replicate the layout and design of the original Sumsang India website.
 
-## You can see a live demo of the project here : 
+## You can see a live demo of the project here : https://hackerbubai007.github.io/RE_MCT_HTML-CSS/index.html 
 
 # Features
 1. Responsive design: The clone is designed to be responsive and optimized for different screen sizes. Navigation menu: The navigation menu at the top of the page allows users to browse different sections of the website.
@@ -14,6 +14,7 @@ The project was created using the following tools:
 1. Html
 2. CSS
 3. Bootstrap
+4. Java Script
 
 The project was tested on the following browsers:
 1. Google chrome
