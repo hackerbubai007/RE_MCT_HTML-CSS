@@ -1,0 +1,338 @@
+
+
+/*.  upper div's starts  .*/
+.top{
+    background-color:#444;
+    color: aliceblue;
+    padding:1% 
+
+}
+.top2{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(41, 31, 31);
+    
+}
+.ul-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    color: aliceblue;
+}
+/* upper div's completed */
+
+/* nav bar start  */
+nav{
+    width:100%;
+    height: 75px;
+    
+
+}
+.logo{
+    padding-left: 40px;
+    padding-top:2%;
+}
+.ss{
+    float:right;
+}
+nav li{
+    display:inline-block;
+    
+}
+nav li a {
+    font size:18px;
+    padding: 1px 30px;
+    color:black;
+    text-decoration:none;
+}
+nav li a:hover{
+    color:rgb(153, 44, 44);
+    background-color: #cbd118;
+}
+/* nav bar end*/
+
+/* 2nd div's starts*/
+.x1{
+    color:black;
+    display: flex;
+    align-items: center;
+}
+/* 2nd div's end */
+
+
+/* 3rd div's start*/
+.btn:hover{
+    color:rgb(139, 56, 11);
+}
+.btn{
+
+  float:right;
+  background-color: #cbd118; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 40px;
+  
+}
+.ok{
+    color:aliceblue;
+
+    
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(34, 29, 29);
+    justify-content: space-between;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+
+}
+/* 3rd div's end */
+
+/* 4th div's start */
+
+.xx{
+    height: 500px;
+    weight: 700px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 20%;
+    padding-right: 10%;
+}
+
+/* 4th div end*/
+
+/*5th div start*/
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10%;
+
+}
+
+.container3{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    height:1000px;
+    width:50%;
+    justify-content: space-around;
+    background-image: url(https://preview.colorlib.com/theme/webuilder/img/service-bg.jpg.webp);
+}
+.card{
+    
+    padding:5px, 5px;
+    width: 270px;
+    height: 250px;
+    text-align: center;
+    
+}
+.zz{
+    display: flex;
+    justify-content:flex-start;
+    height:1000px;
+    width:50%;
+    background-color: #0e0101;
+    
+    color: aliceblue;
+}
+.p1{
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.xx1{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.card:hover{
+    background-color:yellow;
+}
+/* 5th div end*/
+
+/* 6th div start*/
+.div6{
+    width:100%;
+    height:500px;
+    text-align: center;
+    background-image: url(https://preview.colorlib.com/theme/webuilder/img/work-bg.jpg.webp);
+    padding-top: 80px;
+    color:aliceblue;
+}
+.btnx{
+    background-color:yellow; 
+    border: none;
+    color: rgb(13, 1, 1);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 40px;
+}
+.btnx:hover{
+    background-color: #0e0101;
+    color:yellow;
+}
+/* 6th div end*/
+
+/* 7th div start*/
+.title{
+    float:right 
+    
+    
+}
+.container7x{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 130px;
+
+}
+.n{
+    text-align: center;
+    background-color: yellow;
+}
+.hv:hover{
+    background-color: yellow;
+}
+/* 7th div end*/
+
+
+/* 8th div start*/
+.counter_area{
+    height: 200px;
+    background-color: #444;
+    padding-top: 70px;
+    color:white;
+}
+
+/* 8th div end*/
+
+/*9th div start*/
+.nn{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.cc{
+    display:flex;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    justify-content: flex-end;
+    padding-top: 40px;
+    background-color: yellow;
+    
+}
+.test1{
+    width:700px;
+    height: 100px;
+    text-decoration: none;
+    
+
+
+}
+.bb{
+    padding-left: 100px;
+    padding-right: 275px;
+    padding-top: 40px;
+}
+/*9th div end*/
+
+/*10th div start*/
+.ok2{
+    text-align: center;
+}
+.ok1{
+    display: flex;
+    flex-direction: column;
+}
+.ll{
+    height: 300px;
+    width: 300px;
+}
+.pull-right{
+    display: flex;
+    justify-content: end;
+}
+.btny:hover{
+    color:yellow;
+    background-color: #444;
+
+}
+.uu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 10%;
+}
+/* 10th div end*/
+
+/*11th div start*/
+
+.pp{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    background-color:rgb(178, 172, 172);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/*11th div end*/
+
+/* 12th div start*/
+
+/* 12th div end*/
+
+/*13th div start*/
+.jj{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: yellow;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/*13th div end*/
+
+/*14th div start*/
+
+.rr{
+    background-color: #211c1c;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.ww{
+    height: 300px;
+    width: 300px;
+}
+.ff{
+    display: flex;
+    flex-wrap: wrap;
+}
+.btnh:hover{
+    background-color: yellow;
+
+}
+/*14th div end*/
+
+/*15th div start*/
+.gg{
+    background-color: rgb(27, 22, 22);
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
